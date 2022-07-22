@@ -1,0 +1,9 @@
+#
+Name: 原神 胡桃《嗷》
+Path: 66228009
+Song: 66228009.mp3
+Picture: 66228009.jpg
+Chart: 66228009.json
+Level: IN Lv.13
+Composer: 哦呼w
+Charter: 属官一号
